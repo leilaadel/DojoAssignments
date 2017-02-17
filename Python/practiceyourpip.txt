@@ -1,0 +1,7 @@
+-install will install programs onto the computer.
+-install shows the progress of the installation
+-list provides all the files installed 
+-freeze seems to just provide the files that pip does not require to run
+-uninstall pulls up all the files it uninstalling and asks if you would like to proceed
+-When you ask to show Django after its uninstalled it does not show anything
+-pip search Flask pulled up every file that used Flask in the name of the program
